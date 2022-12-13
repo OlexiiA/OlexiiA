@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 I`m Olexii Andriushchenko</h1>
-## Full Stack student from Ukraine
+<h2 align="center">Full Stack student from Ukraine</h2>
 
 - 🌱 I’m currently learning React
 - 🖥️ looking for a permanent job
@@ -34,4 +34,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olexiia&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olexiia&show_icons=true&theme=tokyonight)
-)](https://github.com/anuraghazra/github-readme-stats)
+](https://github.com/anuraghazra/github-readme-stats)
