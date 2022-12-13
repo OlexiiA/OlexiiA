@@ -1,5 +1,4 @@
-# Hi there 👋 I`m Olexii Andriushchenko
-
+<h1 align="center">Hi there 👋 I`m Olexii Andriushchenko</h1>
 ## Full Stack student from Ukraine
 
 - 🌱 I’m currently learning React
