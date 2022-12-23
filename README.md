@@ -5,7 +5,7 @@
 - 🖥️ looking for a permanent job
 - 😄 Fun fact: I liked coding
 
-<p> <img src="https://komarev.com/ghpvc/?username=OlexiiA&label=Profile%20views&color=0e75b6&style=flat" alt="OlexiiA" /> </p>
+## Profile views: <p> <img src="https://komarev.com/ghpvc/?username=OlexiiA&label=Profile%20views&color=0e75b6&style=flat" alt="OlexiiA" /> </p>
 
 ## Follow Me:
 [![My Resume](https://img.shields.io/badge/-MyResume-grey?style=plastic&logo=ReadMe)](https://olexiia.github.io/My-resume/)
