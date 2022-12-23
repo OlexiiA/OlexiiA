@@ -10,6 +10,7 @@
 [![Linkedin](https://img.shields.io/badge/-Linkedin-grey?style=plastic&logo=Linkedin)](https://www.linkedin.com/in/olexii-andriushchenko-161797257/)
 [![Telegram](https://img.shields.io/badge/-Telegram-grey?style=plastic&logo=Telegram)](https://t.me/OlexiiA/)
 [![Gmail](https://img.shields.io/badge/-Gmail-grey?style=plastic&logo=Gmail)](https://t.me/OlexiiA/)
+<p> <img src="https://komarev.com/ghpvc/?username=OlexiiA&label=Profile%20views&color=0e75b6&style=flat" alt="OlexiiA" /> </p>
 
 
 
