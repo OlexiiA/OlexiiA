@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning React
 - 🖥️ looking for a permanent job
-- 😄 Fun fact: I liked coding
+- 😄 Fun fact: I recently realized that writing code is really interesting
 
 ## Profile views: <p> <img src="https://komarev.com/ghpvc/?username=OlexiiA&label=Profile%20views&color=0e75b6&style=flat" alt="OlexiiA" /> </p>
 
