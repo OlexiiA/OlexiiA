@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I`m Olexii Andriushchenko</h1>
 <h2 align="center">Full Stack student from Ukraine</h2>
 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Node.js
 - 🖥️ looking for a permanent job
 - 😄 Fun fact: I recently realized that writing code is really interesting
 
