@@ -9,6 +9,7 @@
 
 ## Follow Me:
 [![My Resume](https://img.shields.io/badge/-MyResume-grey?style=plastic&logo=ReadMe)](https://olexiia.github.io/My-resume/)
+[![My Website](https://img.shields.io/badge/-MyResume-grey?style=plastic&logo=ReadMe)][(https://olexiia.github.io/My-resume/](https://my-react-portfolio-omega.vercel.app/))
 [![Linkedin](https://img.shields.io/badge/-Linkedin-grey?style=plastic&logo=Linkedin)](https://www.linkedin.com/in/olexii-andriushchenko-161797257/)
 [![Telegram](https://img.shields.io/badge/-Telegram-grey?style=plastic&logo=Telegram)](https://t.me/OlexiiA/)
 [![Gmail](https://img.shields.io/badge/-Gmail-grey?style=plastic&logo=Gmail)](https://t.me/OlexiiA/)
