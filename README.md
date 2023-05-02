@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I`m Olexii Andriushchenko</h1>
+<h1 align="center">Hi there 👋 I`m Oleksii Andriushchenko</h1>
 <h2 align="center">Full Stack developer from Ukraine</h2>
 
 - 🌱 I’m currently learning Node.js
