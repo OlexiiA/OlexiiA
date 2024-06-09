@@ -2,7 +2,6 @@
 <h2 align="center">Full Stack developer from Ukraine</h2>
 
 - 🌱 Сurrently open for new opportunities
-- 🖥️ I work at Readable Game
 - 😄 Fun fact: I recently realized that writing code is really interesting
 
 ## Profile views: <p> <img src="https://komarev.com/ghpvc/?username=OlexiiA&label=Profile%20views&color=0e75b6&style=flat" alt="OlexiiA" /> </p>
